@@ -59,6 +59,8 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8
 https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="SRK TV",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="BTV News",BTV News
+https://tvsen6.aynaott.com/btvctg/index.m3u8
 #EXTINF:-1 tvg-name="T Sports",T Sports
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8
 #EXTINF:-1 tvg-name="PTV Sports",PTV Sports
