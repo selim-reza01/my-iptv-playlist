@@ -59,15 +59,9 @@ https://tvsen5.aynaott.com/RtvHD/index.m3u8
 https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="SRK TV",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="BTV News",BTV News
-https://tvsen6.aynaott.com/btvctg/index.m3u8
 #EXTINF:-1 tvg-name="T Sports",T Sports
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8
 #EXTINF:-1 tvg-name="PTV Sports",PTV Sports
 https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Sony Aath",Sony Aath
-https://tvsen6.aynaott.com/ColorsBangla/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Sangeet Bangla",Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-name="Sports",Sports
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8
