@@ -35,8 +35,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
 #EXTINF:-1 tvg-name="Ekhon TV",Ekhon TV
 https://tvsen6.aynaott.com/ekhontv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Ananda TV",Ananda TV
-https://tvsen6.aynaott.com/anandatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="ATN Bangla",Channel S
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bangla TV",Bangla TV
@@ -45,8 +43,6 @@ https://tvsen6.aynaott.com/banglatv/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/bijoytv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Boishakhi TV",Boishakhi TV
 https://tvsen6.aynaott.com/boishakhitv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Desh TV",Desh TV
-https://tvsen6.aynaott.com/deshtv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Durunto TV",Durunto TV
 https://tvsen6.aynaott.com/durontotv-live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="ETV",ETV
@@ -55,8 +51,6 @@ https://tvsen6.aynaott.com/etv/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/globaltvhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="GTV",GTV
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Mohona TV",Mohona TV
-https://tvsen6.aynaott.com/mohonatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="MyTV",MyTV
 https://tvsen6.aynaott.com/mytv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="RTV",RTV
