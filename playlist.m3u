@@ -37,8 +37,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 https://tvsen6.aynaott.com/ekhontv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Ananda TV",Ananda TV
 https://tvsen6.aynaott.com/anandatv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="ATN Bangla",ATN Bangla
-https://tvsen5.aynaott.com/atnbangla/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="ATN Bangla",Channel S
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Bangla TV",Bangla TV
 https://tvsen6.aynaott.com/banglatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Bijoy TV",Bijoy TV
@@ -59,8 +59,6 @@ https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 https://tvsen6.aynaott.com/mohonatv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="MyTV",MyTV
 https://tvsen6.aynaott.com/mytv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Nexus TV",Nexus TV
-https://tvsen6.aynaott.com/nexustv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="RTV",RTV
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
 #EXTINF:-1 tvg-name="SATV",SATV
@@ -69,23 +67,13 @@ https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="T sports",T sports
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="A Sports",A Sports
-https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="PTV Sports",PTV Sports
 https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Willow TV",Willow TV
-https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Colours Bangla",Colours Bangla
 https://tvsen6.aynaott.com/ColorsBangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Star Jalsha",Star Jalsha
 https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Cartoon TV",Cartoon TV
-https://tvsen5.aynaott.com/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Disney JR",Disney JR
-https://tvsen7.aynaott.com/disneyjr/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="NickJR",NickJR
-https://tvsen5.aynaott.com/nickjr/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Nicktoons",Nicktoons
-https://tvsen5.aynaott.com/nicktoons/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Nikki",Nikki
 https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
+#EXTINF:-1 tvg-name="Sports",Sports
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
