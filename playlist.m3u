@@ -65,3 +65,15 @@ https://tvsen7.aynaott.com/tsports-hd/index.m3u8
 https://tvsen5.aynaott.com/PtvSports/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Sports",Sports
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
+#EXTINF:-1 tvg-name="Sports 2",Sports 2
+https://ashtv.com.bd/server/channels/somoy_tv.m3u8
+#EXTINF:-1 tvg-name="Sports 3",Sports 3
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-name="Sports 4",Sports 4
+https://ashtv.com.bd/server/channels/btv.m3u8
+#EXTINF:-1 tvg-name="Sports 5",Sports 5
+https://ashtv.com.bd/server/channels/t_sports_hd.m3u8
+#EXTINF:-1 tvg-name="Sports 6",Sports 6
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
+#EXTINF:-1 tvg-name="Sports 7",Sports 7
+https://tda-nnaa-drct-pa6dy.fast.nbcuni.com/live/master_2.m3u8
