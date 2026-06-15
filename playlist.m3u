@@ -49,8 +49,6 @@ https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u
 https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
 #EXTINF:-1 tvg-name="Animal Planet",Animal Planet
 https://stream.ottplus.bd/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8
-#EXTINF:-1 tvg-name="T Sports",T Sports
-http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:-1 tvg-name="Somoy",Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-name="Tapmad",Sports 1
