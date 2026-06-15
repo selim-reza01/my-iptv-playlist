@@ -53,7 +53,9 @@ https://stream.ottplus.bd/live/animal_planet_hd_abr/live/animal_planet_hd/chunks
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-name="Somoy",Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-name="Tapmad",Tapmad Cricket
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/level_0.m3u8
+#EXTINF:-1 tvg-name="Win Sports",Win Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-name="Sports", Sports
+https://tda-nnaa-drct-pa6dy.fast.nbcuni.com/live/master_2.m3u8
 #EXTINF:-1 tvg-name="Tapmad",Tapmad Football
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8
