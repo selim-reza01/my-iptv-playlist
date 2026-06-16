@@ -33,8 +33,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=2202800.m3u8
 #EXTINF:-1 tvg-name="NTV",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
-#EXTINF:-1 tvg-name="MyTV",MyTV
-http://116.204.149.16/mytv/index.m3u8
 #EXTINF:-1 tvg-name="SRK TV",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Enter10 Bangla",Enter10 Bangla
