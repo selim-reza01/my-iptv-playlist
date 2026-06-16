@@ -47,5 +47,11 @@ https://stream.ottplus.bd/live/cn_sd_abr/live/cn_sd/chunks.m3u8
 https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
 #EXTINF:-1 tvg-name="Animal Planet",Animal Planet
 https://stream.ottplus.bd/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8
+#EXTINF:-1 tvg-name="DAZN",DAZN
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-name="D Sports",D Sports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 #EXTINF:-1 tvg-name="Somoy",Somoy TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-name="Case TV",Case TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
