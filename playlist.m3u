@@ -51,3 +51,5 @@ https://stream.ottplus.bd/live/animal_planet_hd_abr/live/animal_planet_hd/chunks
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-name="Live Sports",Live Sports
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-name="Test Server",Test Server
+http://192.168.10.9:8080/hls/stream.m3u8
