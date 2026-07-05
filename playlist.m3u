@@ -47,6 +47,3 @@ https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u
 https://stream.ottplus.bd/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8
 #EXTINF:-1 tvg-name="Sports",Sports
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-name="Sports 2",Sports 2
-http://103.89.248.58:8082/1LIVE/tracks-v1/index.fmp4.m3u8?token=715f85773056b8c8eaa6b6e6474e290e05f91096-d81ce81a8224c430de93c3c7ea791c8a-1783297948-1783287148
-
