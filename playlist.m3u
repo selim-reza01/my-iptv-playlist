@@ -47,3 +47,10 @@ https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u
 https://stream.ottplus.bd/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8
 #EXTINF:-1 tvg-name="Sports",Sports
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-name="T Sports",T Sports
+https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2Ftv.bdixbd.net%2Ftracks-v1a1a2%2Fmono.m3u8
+#EXTINF:-1 tvg-name="BTV",BTV
+https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.60.204%3A881%2FBTV%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 tvg-name="Somoy TV",Somoy TV
+https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.60.204%3A881%2FSomoy-tv%2Ftracks-v1a1%2Fmono.m3u8
+
