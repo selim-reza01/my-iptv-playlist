@@ -1,3 +1,5 @@
+#EXTM3U x-tvg-url="https://m3u-ip.tv/demo-epg.php" catchup-type="shift"
+
 #EXTINF:-1 tvg-name="NTV",NTV
 https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8
 #EXTINF:-1 tvg-name="Bangla Vision",Bangla Vision
@@ -34,10 +36,17 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Deshi TV",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="Thikana TV",Thikana TV
-https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/chunklist_w114262468.m3u8
-#EXTINF:-1 tvg-name="Animal Planet",Animal Planet
-https://stream.ottplus.bd/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8
-#EXTINF:-1 tvg-name="Sports",Sports
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
+#EXTINF:-1 tvg-name="Global TV",Global TV
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8?
+#EXTINF:-1 tvg-name="DESH TV",DESH TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8?
+#EXTINF:-1 tvg-name="Ekhon TV",Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8?
+#EXTINF:-1 tvg-name="Jamuna TV",Jamuna TV
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8?
+#EXTINF:-1 tvg-name="News 24",News 24
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8?
+#EXTINF:-1 tvg-name="71 TV",71 TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8?
+#EXTINF:-1 tvg-name="DBC News", DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8?
